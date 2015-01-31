@@ -1,0 +1,22 @@
+C:\Users\xman\documents\visual studio 2012\Projects\PBC\PBC\bin\Debug\PBC.exe.config
+C:\Users\xman\documents\visual studio 2012\Projects\PBC\PBC\bin\Debug\PBC.exe
+C:\Users\xman\documents\visual studio 2012\Projects\PBC\PBC\bin\Debug\PBC.pdb
+C:\Users\xman\documents\visual studio 2012\Projects\PBC\PBC\obj\Debug\PBC.exe
+C:\Users\xman\documents\visual studio 2012\Projects\PBC\PBC\obj\Debug\PBC.pdb
+C:\Users\xman\documents\visual studio 2012\Projects\PBC\PBC\obj\Debug\PBC.csprojResolveAssemblyReference.cache
+C:\Users\xman\Copy\MSSE thesis\pbc\PBC\bin\Debug\PBC.exe.config
+C:\Users\xman\Copy\MSSE thesis\pbc\PBC\obj\Debug\PBC.exe
+C:\Users\xman\Copy\MSSE thesis\pbc\PBC\obj\Debug\PBC.pdb
+C:\Users\xman\Copy\MSSE thesis\pbc\PBC\bin\Debug\PBC.exe
+C:\Users\xman\Copy\MSSE thesis\pbc\PBC\bin\Debug\PBC.pdb
+C:\Users\xman\Copy\MSSE thesis\pbc\PBC\obj\Debug\PBC.csprojResolveAssemblyReference.cache
+C:\Users\x-man\Copy\MSSE thesis\pbc\PBC\bin\Debug\PBC.exe.config
+C:\Users\x-man\Copy\MSSE thesis\pbc\PBC\obj\Debug\PBC.exe
+C:\Users\x-man\Copy\MSSE thesis\pbc\PBC\obj\Debug\PBC.pdb
+C:\Users\x-man\Copy\MSSE thesis\pbc\PBC\bin\Debug\PBC.exe
+C:\Users\x-man\Copy\MSSE thesis\pbc\PBC\bin\Debug\PBC.pdb
+C:\Users\x-man\Copy\MSSE thesis\pbc\PBC\obj\Debug\PBC.csprojResolveAssemblyReference.cache
+C:\Users\x-man\Copy\MSSE thesis\pbc\PBC\bin\Debug\ExcelPackage.dll
+C:\Users\x-man\Copy\MSSE thesis\pbc\PBC\bin\Debug\ExcelPackage.pdb
+C:\Users\xman\Copy\MSSE thesis\pbc\PBC\bin\Debug\ExcelPackage.dll
+C:\Users\xman\Copy\MSSE thesis\pbc\PBC\bin\Debug\ExcelPackage.pdb

@@ -1,0 +1,11 @@
+http://stackoverflow.com/questions/7455329/regex-to-match-method-content
+
+
+code metrics
+
+https://sonarqube.sourcemeter.com/ 
+
+regex...
+
+http://compsci.ca/v3/viewtopic.php?t=6712 
+http://checkstyle.sourceforge.net/config_naming.html
